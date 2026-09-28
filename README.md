@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Selim Vural
 
-<!--
-**1moreslim/1moreslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student originally from Turkey, currently living and studying in Poland. I have a strong foundation in software development and network analysis, and I enjoy tackling complex problems—whether that's designing databases or analyzing network packets.
 
-Here are some ideas to get you started:
+### What I'm Up To
+- Studying Computer Science and continuously expanding my technical skill set.
+- Recently completed a 175-hour IT internship focusing on SAP corporate data management at Gap İnşaat.
+- Building projects using Python, Java, and C++, and diving into network protocols (TCP, UDP, DNS) with Wireshark.
+- Ask me about database design (SQL), backend development, or video/audio editing.
+- How to reach me: [selim2002vural@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Tools
+* Languages: Python, Java, SQL
+* IDEs & Developer Tools: JetBrains Suite (IntelliJ IDEA, PyCharm, DataGrip)
+* Networking & Enterprise: Wireshark, SAP
+* Multimedia: Adobe Premiere Pro, After Effects, Audacity
+
+### Outside of Coding
+- On the mats: I'm a 3rd Dan Taekwondo black belt and a former competitor in the Asian Closed Games.
+- Following sports (MMA/Taekwon-do/Football) or keeping up with my fitness routine.
