@@ -5,14 +5,14 @@ I am a Computer Science student originally from Turkey, currently living and stu
 ### What I'm Up To
 - Studying Computer Science and continuously expanding my technical skill set.
 - Recently completed a 175-hour IT internship focusing on SAP corporate data management at Gap İnşaat.
-- Building projects using Python, Java, and C++, and diving into network protocols (TCP, UDP, DNS) with Wireshark.
-- Ask me about database design (SQL), backend development, or video/audio editing.
+- Building projects using Python, Java.
+- Ask me about database design (SQL), or video/audio editing.
 - How to reach me: [selim2002vural@gmail.com]
 
 ### Tech Stack & Tools
 * Languages: Python, Java, SQL
 * IDEs & Developer Tools: JetBrains Suite (IntelliJ IDEA, PyCharm, DataGrip)
-* Networking & Enterprise: Wireshark, SAP
+* Networking & Enterprise: SAP
 * Multimedia: Adobe Premiere Pro, After Effects, Audacity
 
 ### Outside of Coding
