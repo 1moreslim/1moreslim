@@ -8,6 +8,8 @@ I am a Computer Science student originally from Turkey, currently living and stu
 - Building projects using Python, Java.
 - Ask me about database design (SQL), or video/audio editing.
 - How to reach me: [selim2002vural@gmail.com]
+- My personal portfolio 1moreslim.github.io
+
 
 ### Tech Stack & Tools
 * Languages: Python, Java, SQL
